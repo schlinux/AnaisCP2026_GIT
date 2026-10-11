@@ -1,7 +1,9 @@
 # Dt: 2025-04-18 - Lyder
-# Arquivos temporários do LibreOffice
+# Arquivos temporários do LibreOffice / OpenOffice
 .~lock.*#
+.~lock.Anais_do_Encup_2026_10out26.docx#
 ~$*
+lu*.tmp
 
 # Arquivos temporários do LaTeX
 *.aux
