@@ -200,3 +200,6 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+
+# Backups de editores
+*~
