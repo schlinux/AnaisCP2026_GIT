@@ -1,8 +1,8 @@
 ---
-date: 2026-10-10
+date: 2026-10-12
 ref: AnaisCP2026
 ---
-# AnaisCP2026:  Anais do XI Encontro Nacional de Cursinhos Populares -2026
+# Anais do XI Encontro Nacional de Cursinhos Populares- 2026
 
 
 
