@@ -11,7 +11,8 @@ Link permanente (aponta sempre para o PDF da *release* mais recente):
 
 ## Versões
 
-- [v0.1-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.1-previa) (2026-10-13) – primeira prévia: [AnaisENCUP2026.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf)
+- [v0.2-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.2-previa) (2026-10-13) – datas do evento preenchidas: [AnaisENCUP2026.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf)
+- [v0.1-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.1-previa) (2026-10-13) – primeira prévia
 
 
 
