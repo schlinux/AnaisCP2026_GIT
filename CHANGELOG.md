@@ -8,6 +8,13 @@ o identificador `v0.N-previa`; a versão final é `v1.0`.
 
 ## [Não publicado]
 
+## [v0.3-previa] – 2026-10-13
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf`: capa com carimbo "RASCUNHO" sobreposto
+  (*release*: [v0.3-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.3-previa)).
+
 ## [v0.2-previa] – 2026-10-13
 
 ### Alterado
