@@ -8,6 +8,15 @@ o identificador `v0.N-previa`; a versão final é `v1.0`.
 
 ## [Não publicado]
 
+## [v0.7-previa] – 2026-10-17
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf`: versão do rascunho 120 com 54 páginas
+  (*release*: [v0.7-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.7-previa)).
+- Sumário e títulos em Title Case (capitalização de título), iguais no sumário, nos marcadores e no
+  corpo; entradas editoriais do sumário em azul sem maiúsculas forçadas.
+
 ## [v0.6-previa] – 2026-10-17
 
 ### Alterado
