@@ -8,6 +8,35 @@ o identificador `v0.N-previa`; a versão final é `v1.0`.
 
 ## [Não publicado]
 
+## [v0.5-previa] – 2026-10-17
+
+### Adicionado
+
+- Ficha catalográfica (SIEX e CIP) no formato de 2024, com os dados a fornecer pela Biblioteca
+  da Unifesp destacados em carmim; ISBN, DOI e repositório "em processamento".
+- Página de créditos no formato de 2024 (organização, presidência, comissão científica, capa,
+  arte e diagramação).
+- Textos do documento alfa: Memória do XI ENCUP, Artigos sobre práticas inovadoras e artigo do
+  NUPU (Artigos sobre cursinhos populares).
+- Programação do evento (cronogramas dos dois dias).
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf`: versão do rascunho 120 com os ajustes da spec 025
+  (*release*: [v0.5-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.5-previa)).
+- 1ª edição; seis editores (capa em coluna única, sem afiliações).
+- Folha de rosto, Sobre o Encup 2026, Palavra dos organizadores, Programação e Sumário no
+  formato dos Anais de 2024; sumário com autores e filiação de cada artigo.
+- Faixa ENCUP 26 ("Juntos, Reinventando o Futuro") no cabeçalho da folha de rosto ao sumário;
+  cabeçalho dos artigos também na Memória, em "Artigos sobre …" e nas Referências.
+- Fontes das figuras do Instagram corrigidas para "@brasil.cursinhos"; "11º ENCUP" padronizado
+  como "XI ENCUP" no texto editorial.
+
+### Removido
+
+- Seções provisórias (lorem ipsum) Resumos dos Blocos 1–3 e dos Aquários.
+- Página "Identificação da publicação".
+
 ## [v0.4-previa] – 2026-10-14
 
 ### Adicionado
