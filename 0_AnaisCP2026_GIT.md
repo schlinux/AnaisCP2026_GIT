@@ -11,7 +11,8 @@ Link permanente (aponta sempre para o PDF da *release* mais recente):
 
 ## Versões
 
-- [v0.5-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.5-previa) (2026-10-17) – pré-textuais no formato de 2024, Memória, ficha catalográfica e sumário com autores: [AnaisENCUP2026.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf)
+- [v0.6-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.6-previa) (2026-10-17) – figuras sem quebra e renumeradas, ficha sem editora, correções de nomes: [AnaisENCUP2026.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf)
+- [v0.5-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.5-previa) (2026-10-17) – pré-textuais no formato de 2024, Memória, ficha catalográfica e sumário com autores
 - [v0.4-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.4-previa) (2026-10-14) – capa v13out26a, subcapa, apresentação e local do evento
 - [v0.3-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.3-previa) (2026-10-13) – capa com carimbo RASCUNHO
 - [v0.2-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.2-previa) (2026-10-13) – datas do evento preenchidas

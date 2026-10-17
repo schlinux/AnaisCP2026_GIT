@@ -8,6 +8,18 @@ o identificador `v0.N-previa`; a versão final é `v1.0`.
 
 ## [Não publicado]
 
+## [v0.6-previa] – 2026-10-17
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf`: versão do rascunho 120 com 54 páginas
+  (*release*: [v0.6-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.6-previa)).
+- Figuras da Memória: legenda, ilustração e fonte sempre na mesma página; numeração contínua de 1 a
+  14 (a Figura 3, que repetia a fotomontagem da Figura 2, saiu; Bruno Porto passou a Figura 9).
+- Ficha catalográfica sem editora (publicação eletrônica na web): imprenta "São Paulo, 2026".
+- "Estatuto" no lugar de "Regimento" em Sobre o Encup 2026 e na Memória, como o link.
+- Grafias corrigidas: "Bruno Porto" e "Kananda Eller".
+
 ## [v0.5-previa] – 2026-10-17
 
 ### Adicionado
