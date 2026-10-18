@@ -8,6 +8,25 @@ o identificador `v0.N-previa`; a versão final é `v1.0`.
 
 ## [Não publicado]
 
+## [v0.10-previa] – 2026-10-18
+
+### Adicionado
+
+- Contato no `README.md`: schipani(at)unifesp.br.
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf`: versão do rascunho 120 com 79 páginas
+  (*release*: [v0.10-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.10-previa)).
+- Link do NUPU (Sobre o Encup 2026 e Memória) atualizado para
+  <https://feiradeprofissoes.unifesp.br/cursinhosnupu>.
+- "dezessete trabalhos" (Palavra dos organizadores, p. vii) em vermelho, contagem a confirmar.
+
+### Removido
+
+- Frase "Seu Estatuto pode ser acessado aqui." e os links para o Estatuto Social da Brasil Cursinhos
+  (Sobre o Encup 2026 e Memória).
+
 ## [v0.9-previa] – 2026-10-18
 
 ### Alterado
