@@ -11,7 +11,8 @@ Link permanente (aponta sempre para o PDF da *release* mais recente):
 
 ## Versões
 
-- [v0.8-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.8-previa) (2026-10-18) – texto de sete artigos, títulos no estilo de 2024: [AnaisENCUP2026.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf)
+- [v0.9-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.9-previa) (2026-10-18) – texto do artigo do CAAI e artigo do FACE Educa Matozinhos atualizado: [AnaisENCUP2026.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf)
+- [v0.8-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.8-previa) (2026-10-18) – texto de sete artigos, títulos no estilo de 2024
 - [v0.7-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.7-previa) (2026-10-17) – sumário e títulos em Title Case
 - [v0.6-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.6-previa) (2026-10-17) – figuras sem quebra e renumeradas, ficha sem editora, correções de nomes
 - [v0.5-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.5-previa) (2026-10-17) – pré-textuais no formato de 2024, Memória, ficha catalográfica e sumário com autores
