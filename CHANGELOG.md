@@ -8,6 +8,21 @@ o identificador `v0.N-previa`; a versão final é `v1.0`.
 
 ## [Não publicado]
 
+## [v0.8-previa] – 2026-10-18
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf`: versão do rascunho 120 com 77 páginas
+  (*release*: [v0.8-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.8-previa)).
+- Artigos agrupados por tipo, como no sumário de 2024 (práticas inovadoras e cursinhos populares).
+- Título do artigo do GeraBixo sem colchetes.
+- Texto de sete artigos (CORRIJA, Mentoria no Projeto Pontes, SISGERA, Tutorias, Carteirinha Virtual,
+  FACE Educa Matozinhos e Célula de Pesquisa do FACE Educa), transcrito das versões em revisão: as
+  revisões sugeridas aparecem marcadas (inserção em azul, remoção em vermelho riscado).
+- Títulos da Memória e das páginas de grupo dos artigos no estilo de 2024 (maiúsculas, centrados, em
+  azul).
+- Créditos de imagem de capa, edição de arte e diagramação num só bloco.
+
 ## [v0.7-previa] – 2026-10-17
 
 ### Alterado

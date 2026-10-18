@@ -1,5 +1,5 @@
 ---
-date: 2026-10-17
+date: 2026-10-18
 ref: AnaisCP2026
 ---
 # Anais do XI Encontro Nacional de Cursinhos Populares – 2026
@@ -11,7 +11,8 @@ Link permanente (aponta sempre para o PDF da *release* mais recente):
 
 ## Versões
 
-- [v0.7-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.7-previa) (2026-10-17) – sumário e títulos em Title Case: [AnaisENCUP2026.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf)
+- [v0.8-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.8-previa) (2026-10-18) – texto de sete artigos, títulos no estilo de 2024: [AnaisENCUP2026.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf)
+- [v0.7-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.7-previa) (2026-10-17) – sumário e títulos em Title Case
 - [v0.6-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.6-previa) (2026-10-17) – figuras sem quebra e renumeradas, ficha sem editora, correções de nomes
 - [v0.5-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.5-previa) (2026-10-17) – pré-textuais no formato de 2024, Memória, ficha catalográfica e sumário com autores
 - [v0.4-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.4-previa) (2026-10-14) – capa v13out26a, subcapa, apresentação e local do evento
