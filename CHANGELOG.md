@@ -9,6 +9,24 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.16-revisao] – 2026-10-19
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 120 com 78 páginas
+  (*release*: [v0.16-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.16-revisao)).
+- Artigo "NUPU: Núcleo de Cursinhos Populares da UNIFESP":
+  - nota de rodapé com o nome por extenso do CUJA (Cursinho Pré-Vestibular Jeannine Aboulafia);
+  - fonte da fala do Prof. Claudio Shida no texto ("ao orientar a redação do presente artigo");
+  - inversão de frases no 1º parágrafo da Introdução;
+  - revisão de pontuação, da lista da coordenação ("é docente … e atua no NUPU desde sua criação") e de
+    maiúsculas ("Reitora da UNIFESP");
+  - sem referências bibliográficas, por decisão editorial.
+
+### Removido
+
+- Post-its das pendências P1, P3, P4, P5 e P6 do artigo do NUPU, resolvidas (36 notas "Marcas de revisão").
+
 ## [v0.15-revisao] – 2026-10-19
 
 ### Alterado
