@@ -4,9 +4,24 @@ Histórico das prévias e da versão final dos *Anais do XI Encontro Nacional de
 Populares – 2026*.
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). Prévias usam
-o identificador `v0.N-previa`; a versão final é `v1.0`.
+o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa `v0.N-revisao`
+(desde a v0.14); a versão final é `v1.0`.
 
 ## [Não publicado]
+
+## [v0.14-revisao] – 2026-10-19
+
+Início da etapa de revisão por pares.
+
+### Alterado
+
+- PDF renomeado para `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 120 com
+  79 páginas (*release*: [v0.14-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.14-revisao)).
+- Link permanente novo:
+  <https://github.com/schlinux/AnaisCP2026_GIT/releases/latest/download/AnaisENCUP2026_revisao.pdf>.
+  O link das prévias (`…/latest/download/AnaisENCUP2026.pdf`) deixa de valer; as prévias continuam nas
+  *releases* `v0.1-previa`–`v0.13-previa`.
+- Carimbo da capa e da subcapa: "RASCUNHO" → "Revisão Editorial".
 
 ## [v0.13-previa] – 2026-10-18
 
