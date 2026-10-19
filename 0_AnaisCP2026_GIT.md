@@ -15,7 +15,8 @@ schipani(at)unifesp.br
 
 ## Versões
 
-- [v0.14-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.14-revisao) (2026-10-19) – início da revisão por pares; carimbo "Revisão Editorial": [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.15-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.15-revisao) (2026-10-19) – artigo do NUPU reescrito em prosa acadêmica, em duas colunas, com coautor: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.14-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.14-revisao) (2026-10-19) – início da revisão por pares; carimbo "Revisão Editorial"
 - [v0.13-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.13-previa) (2026-10-18) – "@brasil.cursinhos" no card da Figura 6 da Memória
 - [v0.12-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.12-previa) (2026-10-18) – títulos da Memória em Title Case
 - [v0.11-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.11-previa) (2026-10-18) – post-its "Marcas de revisão" com as pendências editoriais em aberto

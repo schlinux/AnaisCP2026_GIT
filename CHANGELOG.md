@@ -9,6 +9,27 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.15-revisao] – 2026-10-19
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 120 com 78 páginas
+  (*release*: [v0.15-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.15-revisao)).
+- Artigo "NUPU: Núcleo de Cursinhos Populares da UNIFESP" reescrito em prosa acadêmica: os 15 itens do
+  questionário viram seções temáticas (Introdução; Origem e Trajetória do NUPU; Organização e
+  Abrangência; Acesso, Gratuidade e Apoio; Funcionamento e Impactos; Considerações Finais; Como
+  Conhecer o NUPU), com todas as informações do original. Linha "Coautor: Mauro A. Schipani | Bolsista
+  do NUPU Unifesp" no artigo e no sumário.
+- Artigo do NUPU no template de duas colunas dos artigos de autores (como o artigo das pp. 22–25):
+  página do grupo "Artigos sobre Cursinhos Populares" na p. 55 e artigo nas pp. 56–58 (antes 55–59); os
+  artigos seguintes e as Referências recuam uma página.
+
+### Adicionado
+
+- Post-its do artigo do NUPU para validação dos autores: reescrita, cargos de Débora Galvani, campi,
+  fonte da fala do Prof. Claudio Shida, nome por extenso do CUJA e referências (41 notas "Marcas de
+  revisão").
+
 ## [v0.14-revisao] – 2026-10-19
 
 Início da etapa de revisão por pares.
