@@ -8,6 +8,19 @@ o identificador `v0.N-previa`; a versão final é `v1.0`.
 
 ## [Não publicado]
 
+## [v0.11-previa] – 2026-10-18
+
+### Adicionado
+
+- Post-its "Marcas de revisão": 38 notas clicáveis do PDF (ícone amarelo), uma em cada pendência editorial
+  em aberto, no ponto a que se refere (dados editoriais, ficha catalográfica, créditos, Memória, páginas de
+  grupo, artigos em revisão ou provisórios e Referências). O texto e a paginação não mudam.
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf`: versão do rascunho 120 com 79 páginas
+  (*release*: [v0.11-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.11-previa)).
+
 ## [v0.10-previa] – 2026-10-18
 
 ### Adicionado
