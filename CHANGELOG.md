@@ -8,6 +8,19 @@ o identificador `v0.N-previa`; a versão final é `v1.0`.
 
 ## [Não publicado]
 
+## [v0.13-previa] – 2026-10-18
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf`: versão do rascunho 120 com 79 páginas
+  (*release*: [v0.13-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.13-previa)).
+- Memória, card da Figura 6: "@brasilcursinhos" corrigido para "@brasil.cursinhos" na imagem. O
+  logotipo da Brasil Cursinhos dos cards das Figuras 4, 5 e 6 fica como está, por decisão editorial.
+
+### Removido
+
+- Post-it "Memória, cards", resolvido (36 notas "Marcas de revisão").
+
 ## [v0.12-previa] – 2026-10-18
 
 ### Alterado
