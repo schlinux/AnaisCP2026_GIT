@@ -8,6 +8,19 @@ o identificador `v0.N-previa`; a versão final é `v1.0`.
 
 ## [Não publicado]
 
+## [v0.12-previa] – 2026-10-18
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf`: versão do rascunho 120 com 79 páginas
+  (*release*: [v0.12-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.12-previa)).
+- Títulos das seções da Memória em Title Case: Introdução, Sábado, Domingo e Reflexões (antes em
+  maiúsculas, como no documento alfa).
+
+### Removido
+
+- Post-it "Memória, títulos", resolvido (37 notas "Marcas de revisão").
+
 ## [v0.11-previa] – 2026-10-18
 
 ### Adicionado

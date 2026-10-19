@@ -15,7 +15,8 @@ schipani(at)unifesp.br
 
 ## Versões
 
-- [v0.11-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.11-previa) (2026-10-18) – post-its "Marcas de revisão" com as pendências editoriais em aberto: [AnaisENCUP2026.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf)
+- [v0.12-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.12-previa) (2026-10-18) – títulos da Memória em Title Case: [AnaisENCUP2026.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026.pdf)
+- [v0.11-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.11-previa) (2026-10-18) – post-its "Marcas de revisão" com as pendências editoriais em aberto
 - [v0.10-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.10-previa) (2026-10-18) – link do NUPU atualizado, frase do Estatuto retirada, "dezessete trabalhos" em vermelho
 - [v0.9-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.9-previa) (2026-10-18) – texto do artigo do CAAI e artigo do FACE Educa Matozinhos atualizado
 - [v0.8-previa](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.8-previa) (2026-10-18) – texto de sete artigos, títulos no estilo de 2024
