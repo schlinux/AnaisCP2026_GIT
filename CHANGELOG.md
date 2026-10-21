@@ -9,6 +9,30 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.17-revisao] – 2026-10-21
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 120 com 99 páginas
+  (*release*: [v0.17-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.17-revisao)).
+- Artigos agrupados em blocos, cada um com uma página de abertura que lista título e autores: Artigos da
+  InovaCUP, Ensaio Reflexivo, Relatos de Práticas e Em Revisão Editorial.
+- Os 16 artigos dos autores com o texto da pasta compartilhada de 21/10: as versões finais sem marcas; os
+  artigos em revisão com as revisões sugeridas marcadas (inserção em azul, remoção em vermelho riscado).
+- Post-its "Marcas de revisão" na margem direita, a cerca de 1 cm da borda da página.
+- Memória: "Laura Sartori" também na lista do Bloco 4.
+
+### Adicionado
+
+- Artigo "NUPU: Núcleo de Cursinhos Populares da UNIFESP": lista dos 11 cursinhos vinculados ao núcleo e seção
+  Referências (página Cursinhos/NUPU da UNIFESP, 2026).
+
+### Removido
+
+- Grupos "Artigos sobre Práticas Inovadoras" e "Artigos sobre Cursinhos Populares".
+- Textos provisórios dos artigos.
+- Post-its dos grupos antigos, dos artigos, das Referências e da divergência "Laura" (de 36 para 17 notas).
+
 ## [v0.16-revisao] – 2026-10-19
 
 ### Alterado
