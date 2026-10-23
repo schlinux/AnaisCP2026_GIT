@@ -9,6 +9,20 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.25-revisao] – 2026-10-23
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 190 com 100 páginas
+  (*release*: [v0.25-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.25-revisao)).
+  38 post-its (12 pendentes, 26 resolvidos).
+- Subcapa: identificador da versão «v0.25-revisao».
+
+### Adicionado
+
+- Folha de rosto (p. iii): linha «Data: 15 e 16 de agosto de 2026» logo abaixo de «Local: Fundação Getúlio Vargas
+  (FGV), São Paulo - SP».
+
 ## [v0.24-revisao] – 2026-10-23
 
 ### Alterado

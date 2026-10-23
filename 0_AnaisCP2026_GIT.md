@@ -15,7 +15,8 @@ schipani(at)unifesp.br
 
 ## Versões
 
-- [v0.24-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.24-revisao) (2026-10-23) – versão da release impressa em 4 pt no rodapé da subcapa: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.25-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.25-revisao) (2026-10-23) – folha de rosto com a linha «Data:» abaixo de «Local:»: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.24-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.24-revisao) (2026-10-23) – versão da release impressa em 4 pt no rodapé da subcapa
 - [v0.23-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.23-revisao) (2026-10-23) – Memória: estados, municípios, universidades e número de cursinhos afiliados e não filiados
 - [v0.22-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.22-revisao) (2026-10-23) – artigo do NUPU: redação da frase sobre a institucionalização dos cursinhos revista
 - [v0.21-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.21-revisao) (2026-10-23) – comentários de Shida aplicados no artigo do NUPU (validado pelo autor); URLs das referências quebrando na coluna
