@@ -9,6 +9,17 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.22-revisao] – 2026-10-23
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 190 com 100 páginas
+  (*release*: [v0.22-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.22-revisao)).
+- Artigo do NUPU: redação da frase sobre a institucionalização dos cursinhos revista («viabiliza a utilização da
+  infraestrutura», «favorece ações», «junto à graduação e à pós-graduação», «possibilita a concessão de bolsas… e a
+  participação em editais de financiamento»); registrada no post-it verde do trecho. 38 post-its (14 pendentes,
+  24 resolvidos).
+
 ## [v0.21-revisao] – 2026-10-23
 
 ### Alterado
