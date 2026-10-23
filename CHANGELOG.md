@@ -9,6 +9,21 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.20-revisao] – 2026-10-23
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 140 com 100 páginas
+  (*release*: [v0.20-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.20-revisao)).
+- ISBN, DOI e Repositório Institucional UNIFESP: "EM PROCESSAMENTO" em amarelo (antes vermelho), na folha de rosto
+  e nos Créditos.
+- Post-it da nota de rodapé do InovaCup: resolvido (🟢); 26 post-its, 15 pendentes e 11 resolvidos.
+
+### Adicionado
+
+- Memória: links internos, em azul, para os 17 artigos: os títulos das 9 práticas do InovaCup que têm artigo nos
+  Anais e trechos da Memória ligados aos demais artigos. Os links acompanham o artigo em qualquer página ou ordem.
+
 ## [v0.19-revisao] – 2026-10-23
 
 ### Alterado
