@@ -9,6 +9,41 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.18-revisao] – 2026-10-23
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 140 com 100 páginas
+  (*release*: [v0.18-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.18-revisao)).
+- Editores (capa, subcapa, folha de rosto e ficha catalográfica): Eliane de Souza Cruz, Matheus Lopes Ferreira,
+  Claudio Saburo Shida, Matheus Vigari e David Andriotto; afiliação de Shida padronizada como UNIFESP - NUPU.
+- "Sobre o Encup 2026": novo texto sobre os responsáveis pelos Anais (Rede Articul@ções, Universidade Federal do
+  ABC e Universidade Federal de São Paulo, por meio do NUPU).
+- Título da p. vii: "Palavra da Brasil Cursinhos – David Andriotto Gonçalves".
+- Créditos: "Universidade Federal do ABC" por extenso na Comissão Científica.
+- Memória: nomes completos e vínculos de Nayron e Lívio; Prof. Claudio Saburo Shida como condutor do aquário
+  Oficina de Escrita, com biografia; tema da mesa "Horizontes da Educação Popular" no Bloco 1; cards dos Blocos 3 e
+  4 (Aline dos Santos Akimoto, João Francisco Milani e Laura Sartori) no início do Bloco 3, p. 19; figuras
+  renumeradas.
+- Artigos com os finais da pasta compartilhada de 22/10: Tutorias e Face Educa Matozinhos (Artigos da InovaCUP),
+  Para Além do Vestibular e Célula de Pesquisa do FACE Educa (Relatos de Práticas); CAAI retranscrito (Em Revisão
+  Editorial); dentro de cada bloco, ordem pelo primeiro autor.
+- Carimbos "Revisão Editorial" da capa e da subcapa em amarelo.
+- Post-its "Marcas de revisão" com o retorno da equipe editorial; os de itens resolvidos em verde (26 notas:
+  16 amarelas, 10 verdes).
+
+### Adicionado
+
+- Créditos: bloco "Organização dos Anais" (Universidade Federal de São Paulo e Universidade Federal do ABC).
+- Folha de rosto: logo da Universidade Federal do ABC.
+- Memória: card do Prof. Claudio Saburo Shida.
+
+### Removido
+
+- Página de Referências gerais (as referências de cada artigo ficam no próprio capítulo).
+- Folha de rosto: apoio do Sou Ciência.
+- Ficha catalográfica: linha do SIEX.
+
 ## [v0.17-revisao] – 2026-10-21
 
 ### Alterado

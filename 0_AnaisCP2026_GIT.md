@@ -1,5 +1,5 @@
 ---
-date: 2026-10-21
+date: 2026-10-23
 ref: AnaisCP2026
 ---
 # Anais do XI Encontro Nacional de Cursinhos Populares – 2026
@@ -15,7 +15,8 @@ schipani(at)unifesp.br
 
 ## Versões
 
-- [v0.17-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.17-revisao) (2026-10-21) – artigos em blocos (InovaCUP, Ensaio Reflexivo, Relatos de Práticas, Em Revisão Editorial) com os textos de 21/10; cursinhos vinculados e referência no artigo do NUPU; post-its na margem direita: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.18-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.18-revisao) (2026-10-23) – retorno aos comentários da equipe de 22/10 (editores, folha de rosto, créditos com Organização dos Anais, Memória); artigos com os finais de 22/10; página de Referências gerais retirada; carimbos amarelos e post-its resolvidos em verde: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.17-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.17-revisao) (2026-10-21) – artigos em blocos (InovaCUP, Ensaio Reflexivo, Relatos de Práticas, Em Revisão Editorial) com os textos de 21/10; cursinhos vinculados e referência no artigo do NUPU; post-its na margem direita
 - [v0.16-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.16-revisao) (2026-10-19) – artigo do NUPU revisado: pendências resolvidas, nota do CUJA e revisão de redação
 - [v0.15-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.15-revisao) (2026-10-19) – artigo do NUPU reescrito em prosa acadêmica, em duas colunas, com coautor
 - [v0.14-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.14-revisao) (2026-10-19) – início da revisão por pares; carimbo "Revisão Editorial"
