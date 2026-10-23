@@ -9,6 +9,25 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.21-revisao] – 2026-10-23
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 190 com 100 páginas
+  (*release*: [v0.21-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.21-revisao)).
+- Artigo do NUPU: os 14 comentários de Claudio Saburo Shida no Drive (23/10) aplicados: sigla UNIFESP no resumo;
+  parágrafos novos sobre os apoios à criação do NUPU, a Coordenadoria de Direitos Humanos da ProEC e os modelos dos
+  cursinhos (com a institucionalização como projetos de extensão); «Zona Leste da cidade de São Paulo»; «Cursinho
+  Mabel Assis (Rede Uneafro)»; «A atual coordenação»; segundo e-mail (nupu@unifesp.br) e link da ProEC. Lapsos de
+  digitação corrigidos e listados nos post-its. O artigo fica validado pelo autor.
+- Referências de três artigos: URLs longas passam a quebrar na coluna (antes invadiam a coluna vizinha).
+- Post-its: 38, 14 pendentes e 24 resolvidos; no artigo do NUPU, 13 resolvidos, com o texto de cada comentário de
+  Shida («Equipe no Drive: …») e o retorno.
+
+### Removido
+
+- Artigo do NUPU: biografias das Profas. Raiane e Débora Galvani e nota de rodapé sobre o CUJA (pedido do autor).
+
 ## [v0.20-revisao] – 2026-10-23
 
 ### Alterado
