@@ -9,6 +9,18 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.23-revisao] – 2026-10-23
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 190 com 100 páginas
+  (*release*: [v0.23-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.23-revisao)).
+- Memória, Introdução: com os dados da planilha de cursinhos inscritos, «cerca de 21 cursinhos afiliados à
+  organização e 8 representantes de cursinhos não filiados» (antes «[quantidade]») e a frase nova «Os cursinhos
+  inscritos no XI ENCUP vieram de 4 estados (São Paulo, Santa Catarina, Minas Gerais e Distrito Federal), de pelo
+  menos 20 municípios e de 12 universidades, além de cursinhos independentes.»
+- Post-its: 38, 12 pendentes e 26 resolvidos (os dois da Introdução da Memória resolvidos).
+
 ## [v0.22-revisao] – 2026-10-23
 
 ### Alterado

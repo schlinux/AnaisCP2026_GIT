@@ -15,7 +15,8 @@ schipani(at)unifesp.br
 
 ## Versões
 
-- [v0.22-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.22-revisao) (2026-10-23) – artigo do NUPU: redação da frase sobre a institucionalização dos cursinhos revista: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.23-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.23-revisao) (2026-10-23) – Memória: estados, municípios, universidades e número de cursinhos afiliados e não filiados: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.22-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.22-revisao) (2026-10-23) – artigo do NUPU: redação da frase sobre a institucionalização dos cursinhos revista
 - [v0.21-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.21-revisao) (2026-10-23) – comentários de Shida aplicados no artigo do NUPU (validado pelo autor); URLs das referências quebrando na coluna
 - [v0.20-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.20-revisao) (2026-10-23) – links da Memória para os 17 artigos; "EM PROCESSAMENTO" em amarelo; nota de rodapé do InovaCup resolvida
 - [v0.19-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.19-revisao) (2026-10-23) – post-its com «🟢 RESOLVIDO» ou «🟡 PENDENTE» e com os comentários da equipe no Drive de 22/10
