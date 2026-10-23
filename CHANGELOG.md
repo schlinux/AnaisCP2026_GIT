@@ -9,6 +9,21 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.19-revisao] – 2026-10-23
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 140 com 100 páginas
+  (*release*: [v0.19-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.19-revisao)); texto do
+  livro igual ao da v0.18-revisao, só os post-its mudam.
+- Post-its "Marcas de revisão" abrem com «🟢 RESOLVIDO –» (10) ou «🟡 PENDENTE –» (16): o Google Drive mostra os
+  post-its como comentários de texto e não exibe a cor da anotação.
+
+### Adicionado
+
+- Nos 15 post-its ligados à revisão da equipe de 22/10, o texto dos 9 comentários e das 14 respostas feitos no
+  Drive («Equipe no Drive: …»), antes do retorno; sem e-mails pessoais.
+
 ## [v0.18-revisao] – 2026-10-23
 
 ### Alterado
