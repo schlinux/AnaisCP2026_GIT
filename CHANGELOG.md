@@ -9,6 +9,17 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.29-revisao] – 2026-10-24
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 190 com 104 páginas
+  (*release*: [v0.29-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.29-revisao)).
+  65 post-its (6 pendentes, 59 resolvidos).
+- Subcapa: identificador da versão «v0.29-revisao».
+- Palavra da Brasil Cursinhos: «dezesseis trabalhos» (eram «dezessete», em vermelho até a confirmação), como os 16
+  artigos do livro.
+
 ## [v0.28-revisao] – 2026-10-24
 
 ### Alterado
