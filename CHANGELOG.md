@@ -9,6 +9,22 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.27-revisao] – 2026-10-24
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 190 com 103 páginas
+  (*release*: [v0.27-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.27-revisao)).
+  62 post-its (12 pendentes, 50 resolvidos).
+- Subcapa: identificador da versão «v0.27-revisao».
+- Artigos: «Afiliação» em vez de «Filiação» no cabeçalho e no Sumário; afiliações novas de quatro artigos, como
+  pedido pela equipe.
+- NUPU: e-mails da coordenação e da equipe dos cursinhos identificados em «Como Conhecer o NUPU».
+
+### Adicionado
+
+- Linha de contatos (e-mails enviados pela equipe) abaixo da afiliação em nove artigos.
+
 ## [v0.26-revisao] – 2026-10-24
 
 ### Alterado
