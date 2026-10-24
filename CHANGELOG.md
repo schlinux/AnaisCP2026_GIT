@@ -5,9 +5,33 @@ Populares – 2026*.
 
 O formato segue [Keep a Changelog](https://keepachangelog.com/pt-BR/1.1.0/). Prévias usam
 o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa `v0.N-revisao`
-(desde a v0.14); a versão final é `v1.0`.
+(v0.14 a v0.29); os candidatos a release usam `v0.N-RC` (desde a v0.30); a versão final é `v1.0`.
 
 ## [Não publicado]
+
+## [v0.30-RC] – 2026-10-24
+
+Primeiro candidato a release (rascunho `260_anais26_rc1`).
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 260 com 105 páginas
+  (*release*: [v0.30-RC](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.30-RC)), sem post-its de
+  revisão e sem os carimbos «Revisão Editorial» na capa e na subcapa.
+- Subcapa: identificador da versão «v0.30-RC».
+- Artigos da InovaCUP – Relatos de Práticas Inovadoras: 9 relatos, com os finais de «Aprender Além da Sala de Aula»
+  (Leonardo Augusto Lemos e Anna Paola Pio) e da «Prática Inovadora do Curso CAAI» (Gabrielli Mayumi Takeda Ribeiro e
+  Bruna Xavier Medeiros), na ordem da Memória.
+- Automação de Processo Seletivo Administrativo: ponto final pedido pela equipe («(GP). A consolidação…»).
+
+### Adicionado
+
+- Palavras Finais da Editora – Profa. Dra. Eliane de Souza Cruz, no fim do livro.
+
+### Removido
+
+- Bloco Em Revisão Editorial (os dois artigos passaram à InovaCUP).
+- Post-its «Marcas de revisão» e carimbos «Revisão Editorial» (comentados na fonte).
 
 ## [v0.29-revisao] – 2026-10-24
 
