@@ -1,5 +1,5 @@
 ---
-date: 2026-10-23
+date: 2026-10-24
 ref: AnaisCP2026
 ---
 # Anais do XI Encontro Nacional de Cursinhos Populares – 2026
@@ -15,7 +15,8 @@ schipani(at)unifesp.br
 
 ## Versões
 
-- [v0.25-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.25-revisao) (2026-10-23) – folha de rosto com a linha «Data:» abaixo de «Local:»: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.26-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.26-revisao) (2026-10-24) – versões finais dos artigos enviadas pela equipe em 24/10, blocos novos, seções numeradas e links do Sumário corrigidos: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.25-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.25-revisao) (2026-10-23) – folha de rosto com a linha «Data:» abaixo de «Local:»
 - [v0.24-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.24-revisao) (2026-10-23) – versão da release impressa em 4 pt no rodapé da subcapa
 - [v0.23-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.23-revisao) (2026-10-23) – Memória: estados, municípios, universidades e número de cursinhos afiliados e não filiados
 - [v0.22-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.22-revisao) (2026-10-23) – artigo do NUPU: redação da frase sobre a institucionalização dos cursinhos revista

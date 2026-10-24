@@ -9,6 +9,27 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.26-revisao] – 2026-10-24
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 190 com 101 páginas
+  (*release*: [v0.26-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.26-revisao)).
+  60 post-its (20 pendentes, 40 resolvidos).
+- Subcapa: identificador da versão «v0.26-revisao».
+- Blocos de artigos com as versões finais enviadas pela equipe em 24/10: «Artigos da InovaCUP – Relatos de Práticas
+  Inovadoras» (título novo; 7 artigos, na ordem da lista de práticas da Memória), Ensaio Reflexivo (ensaio que une
+  os artigos 4 e 5 do Olimpo), Relatos de Práticas (Olimpo revisado) e Em Revisão Editorial (2 artigos aguardando os
+  finais).
+- Títulos de seção numerados e em negrito em todos os artigos.
+- Autoria e filiação conforme as versões finais (SISGERA, Matozinhos, Pontes, Carteirinha, CorRija).
+- Sumário e marcadores do PDF: as entradas editoriais (Memória e blocos) abrem a página indicada.
+
+### Adicionado
+
+- Post-its amarelos com os pedidos da equipe de 23–24/10 ainda em aberto («Afiliação» e contatos nos artigos, NUPU,
+  Memória, capa), citados para não se perderem no Drive.
+
 ## [v0.25-revisao] – 2026-10-23
 
 ### Alterado
