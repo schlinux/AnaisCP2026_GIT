@@ -15,7 +15,8 @@ schipani(at)unifesp.br
 
 ## Versões
 
-- [v0.27-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.27-revisao) (2026-10-24) – «Afiliação» e contatos dos autores nos artigos, como pedido pela equipe: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.28-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.28-revisao) (2026-10-24) – capa com EDITORES centrado, recuo de 1,25 cm até a Memória, autoria do NUPU, biografias de Nayron e Lívio e mapa dos cursinhos do NUPU: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.27-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.27-revisao) (2026-10-24) – «Afiliação» e contatos dos autores nos artigos, como pedido pela equipe
 - [v0.26-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.26-revisao) (2026-10-24) – versões finais dos artigos enviadas pela equipe em 24/10, blocos novos, seções numeradas e links do Sumário corrigidos
 - [v0.25-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.25-revisao) (2026-10-23) – folha de rosto com a linha «Data:» abaixo de «Local:»
 - [v0.24-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.24-revisao) (2026-10-23) – versão da release impressa em 4 pt no rodapé da subcapa

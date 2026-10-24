@@ -9,6 +9,26 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.28-revisao] – 2026-10-24
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 190 com 104 páginas
+  (*release*: [v0.28-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.28-revisao)).
+  65 post-its (7 pendentes, 58 resolvidos).
+- Subcapa: identificador da versão «v0.28-revisao».
+- Capa e subcapa: bloco EDITORES centrado, com os nomes em duas linhas acima da ilustração.
+- Memória, Sobre o Encup 2026 e Palavra da Brasil Cursinhos: recuo de 1,25 cm em todas as aberturas de parágrafo,
+  também no primeiro parágrafo depois de cada título.
+- Artigo do NUPU: autores Claudio Saburo Shida, Eliane de Souza Cruz e Mauro Afonso Schipani, sem a linha de coautor.
+- Memória: retirada a marca pendente do parágrafo de falas do Bloco 1.
+
+### Adicionado
+
+- Memória: biografias de Nayron Costa Alves e Lívio Miguel dos Santos em notas de rodapé; frase sobre as 13 práticas
+  apresentadas na InovaCUP e as 9 submetidas como artigo.
+- Artigo do NUPU: mapa dos cursinhos como quarto canal de «Como Conhecer o NUPU».
+
 ## [v0.27-revisao] – 2026-10-24
 
 ### Alterado
