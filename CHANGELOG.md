@@ -9,6 +9,15 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.32-RC] – 2026-11-27
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 280 com 105 páginas
+  (*release*: [v0.32-RC](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.32-RC)).
+- Subcapa: identificador da versão «v0.32-RC».
+- Palavras Finais da Editora: «Até o próximo ENCUP!» sem o ponto final depois da exclamação.
+
 ## [v0.31-RC] – 2026-11-27
 
 Segundo candidato a release (rascunho `280_anais26_rc2`, cópia do 260).

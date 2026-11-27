@@ -15,7 +15,8 @@ schipani(at)unifesp.br
 
 ## Versões
 
-- [v0.31-RC](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.31-RC) (2026-11-27) – segundo candidato a release: correções ortográficas, editores em letra maior na capa, Tabela 1 das Palavras Finais com os valores da orientadora: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.32-RC](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.32-RC) (2026-11-27) – «Até o próximo ENCUP!» sem o ponto final: [AnaisENCUP2026_revisao.pdf](AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf)
+- [v0.31-RC](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.31-RC) (2026-11-27) – segundo candidato a release: correções ortográficas, editores em letra maior na capa, Tabela 1 das Palavras Finais com os valores da orientadora
 - [v0.30-RC](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.30-RC) (2026-10-24) – primeiro candidato a release: InovaCUP com 9 relatos, Palavras Finais da Editora, sem post-its nem carimbos
 - [v0.29-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.29-revisao) (2026-10-24) – Palavra da Brasil Cursinhos com «dezesseis trabalhos», confirmado
 - [v0.28-revisao](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.28-revisao) (2026-10-24) – capa com EDITORES centrado, recuo de 1,25 cm até a Memória, autoria do NUPU, biografias de Nayron e Lívio e mapa dos cursinhos do NUPU
