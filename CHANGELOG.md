@@ -9,6 +9,25 @@ o identificador `v0.N-previa` (até a v0.13); a etapa de revisão por pares usa 
 
 ## [Não publicado]
 
+## [v0.31-RC] – 2026-11-27
+
+Segundo candidato a release (rascunho `280_anais26_rc2`, cópia do 260).
+
+### Alterado
+
+- `AnaisCP2026_DATA/pdf/AnaisENCUP2026_revisao.pdf`: versão do rascunho 280 com 105 páginas
+  (*release*: [v0.31-RC](https://github.com/schlinux/AnaisCP2026_GIT/releases/tag/v0.31-RC)), sem post-its.
+- Subcapa: identificador da versão «v0.31-RC».
+- Capa e subcapa: nomes dos editores em letra maior (14 pt), como pedido pela orientadora.
+- Memória: autoria com «Universidade Federal de Minas Gerais» por extenso; correções de grafia, acentuação e hífen
+  (Diretor-Executivo, Fotomontagem, Diretora-Geral, condução, coordenador-geral, projeto-piloto, «Esta é uma
+  cidade», «não eram gravadas»); Figura 13 um parágrafo acima, sem meia página em branco.
+- Artigos: rótulo «Palavras-chave»; correções de grafia nos relatos do Cursinho PES (projeto-piloto), do FACE Educa
+  Matozinhos (salário mínimo) e do Cursinho Popular EACH USP (tanto… quanto, entreturnos, predefinida).
+- Palavras Finais da Editora: tabela refeita com os valores da orientadora, como «Tabela 1: Cursinhos populares
+  financiados pelo CPOP (2025–2027)», com divisórias cinza entre os anos e chamada no texto; linha em branco antes
+  de «Finalizamos com enorme esperança…».
+
 ## [v0.30-RC] – 2026-10-24
 
 Primeiro candidato a release (rascunho `260_anais26_rc1`).
